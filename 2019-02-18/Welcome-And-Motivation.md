@@ -1,29 +1,31 @@
 name: title
 layout: true
-class: middle, center,  inverse
+class: middle, center,  inverse 
 
 .footer[ Meetup-Turbine Jogi Künstner]
 ---
 
 
 
-Arduino, <br>Raspberry Pi<br>& mehr 
+.center[
+
+# Arduino, <br>Raspberry Pi<br>& mehr 
+
+]
 ===
 
 ---
+class: middle, inverse
 
-.top[
+#  Jogi Künstner
 
-##  Jogi Künstner
-
-]
 
 .left[
 
-* Elektronik seit 1976 
+* Elektronik seit ~ 1975 
 
-* Software / Embedded seit 1980
-
+* Software / Embedded seit ~ 1980  
+  [Mein Junior-Computer]( http://www.wolfgangrobel.de/sbc/junior.htm)
 * Elektrotechnik/Informations-Technik Studium Technische Uni München 
 
 * Handy - Entwicklung , inzwischen Software-Projekt-Leiter bei Roche
@@ -56,7 +58,15 @@ Arduino, <br>Raspberry Pi<br>& mehr
 
 ---
 
-## Turbine nutzen!
+## Turbinen-Räumlichkeiten nutzen!
+
+---
+
+## Neue Leute kennelernen!
+
+---
+
+## Neue potentielle Helfer kennenlernen :-)
 
 ---
 
@@ -196,15 +206,76 @@ Kniwwelino ( eine Platform aus Belgien)
 
 ---
 
-## "Elektronik-Labor" EXPEYES ![expeyes](pics/expeyes.jpg)
+## "Elektronik-Labor" EXPEYES 
+
+![expeyes](pics/expeyes.jpg)
 
 ---
 
+## uvm an Elektronik, 
+## Microprozessoren, 
+## Shields, HATs etc 
 
+
+---
+
+## Zukünftige Meetups ?
+
+### Wann ? 
+### Wie oft ?
+### Wie organisiert ?
+
+---
+
+## Meine Vorstellung :
+.left[
+*  Wenig bis 0 Zeit zusätzliche Vorbereitung
+*  Meine Projektchen etwas weiterkommen
+*  Anlaufstelle für Kinder/Jugendliche 
+]
+---
+
+## Arduino-Meetup Zürich 
+.left[
+
+* Vorstellung ein paar Projekte
+* Aufteilung in Interessierte an diesen Projekten
+* Gruppen-Arbeit oder auch alleine 
+
+]
+---
+
+## Kommentare von Gruppen-Mitgliedern
+.left[
+
+* Montag ist schlecht 
+* Freitag wäre besser
+* 18:00 Uhr ist zu früh
+
+]
+---
+
+## Ich könnte mir vorstellen
+.left[
+
+* 2 mal im Monat  
+* z.B jeder 2.te Montag im Monat 
+* Jeder 3.te oder 4.te Freitag im Monat
+* Davon einmal komplett "programmlos", treffen, "hacken"
+* Das andere Mal mit potentiellem Vorträgen, gemeinsame Projekte
+* Programm erst ab ca 19:30 Uhr
+* 2ter Organisator wäre toll!
+
+]
+---
+
+# Comments, Ideen ?
+
+---
 
 ## Lizenz/Copyright-Info
 
-Für alle Bilder in diesen Slides gilt:
+Für alle Texte/Bilder in diesen Slides gilt:
 
 *  Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
