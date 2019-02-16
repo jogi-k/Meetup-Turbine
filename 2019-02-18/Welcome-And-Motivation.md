@@ -34,9 +34,9 @@ class: middle, inverse
 
 * Einige Elektronik Workshops Turbine
 
-* Programmierkurs für Kinder Turbine
+* Programmierkurs für Kinder Turbine (jetzt auch Lehrer)
 
-* Repair-Cafe 
+* Mit-Organisation Repair-Cafes 
 
   ]
 
@@ -216,7 +216,6 @@ Kniwwelino ( eine Platform aus Belgien)
 ## Microprozessoren, 
 ## Shields, HATs etc 
 
-
 ---
 
 ## Zukünftige Meetups ?
@@ -227,7 +226,16 @@ Kniwwelino ( eine Platform aus Belgien)
 
 ---
 
+## Was sind Eure Erwartungen?
+
+---
+
+## Konkrete Vorstellungen?
+
+---
+
 ## Meine Vorstellung :
+
 .left[
 *  Wenig bis 0 Zeit zusätzliche Vorbereitung
 *  Meine Projektchen etwas weiterkommen
