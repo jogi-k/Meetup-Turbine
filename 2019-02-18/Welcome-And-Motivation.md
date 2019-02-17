@@ -28,7 +28,9 @@ class: middle, inverse
   [Mein Junior-Computer]( http://www.wolfgangrobel.de/sbc/junior.htm)
 * Elektrotechnik/Informations-Technik Studium Technische Uni München 
 
-* Handy - Entwicklung , inzwischen Software-Projekt-Leiter bei Roche
+* Handy - Entwicklung Siemens München bis 2006, 
+
+* inzwischen Software-Projekt-Leiter ( Roche-Linux ) bei Roche
 
 * Vorstand Turbine
 
@@ -72,7 +74,7 @@ class: middle, inverse
 
 ## Calliope Kurs Teilnehmer "abholen!"
 
-![Calliope](pics/calliope.gif)
+![Calliope](pics/Programmier_Kurs.jpg)
 
 
 ???
@@ -240,8 +242,38 @@ Kniwwelino ( eine Platform aus Belgien)
 *  Wenig bis 0 Zeit zusätzliche Vorbereitung
 *  Meine Projektchen etwas weiterkommen
 *  Anlaufstelle für Kinder/Jugendliche 
+*  **Kein** Programmier-Kurs!
+*  **Aber**: Anlaufstelle für **ALLE** Fragen 
+*  (ohne Anspruch auf Antworten):
+   * von Dioden und Ohmsches Gesetz
 ]
 ---
+
+## Thunder Ohm ( Mad Max...)
+
+![expeyes](pics/thunderohm.jpg)
+
+
+---
+
+## Meine Vorstellung :
+
+.left[
+*  Wenig bis 0 Zeit zusätzliche Vorbereitung
+*  Meine Projektchen etwas weiterkommen
+*  Anlaufstelle für Kinder/Jugendliche 
+*  **Kein** Programmier-Kurs!
+*  **Aber**: Anlaufstelle für **ALLE** Fragen 
+*  (ohne Anspruch auf Antworten):
+   * von Dioden und Ohmsches Gesetz
+   * Über Raspberry Pi, Arduino, ...
+   * über (Docker, Linux LXC, LXD) Container
+   * bis Cloud 
+   * und Smart-Home  
+]
+---
+
+
 
 ## Arduino-Meetup Zürich 
 .left[
@@ -278,6 +310,160 @@ Kniwwelino ( eine Platform aus Belgien)
 ---
 
 # Comments, Ideen ?
+
+---
+
+# Turbine ?
+---
+
+# Turbine 
+.left[
+
+* Offene Werkstatt
+]
+
+---
+
+# Turbine 
+.left[
+
+* Offene Werkstatt
+* Kurse 
+]
+
+---
+
+# Turbine 
+.left[
+
+* Offene Werkstatt
+* Kurse 
+* Repair-Cafes
+]
+
+---
+
+# Turbine 
+.left[
+
+* Offene Werkstatt
+* Kurse 
+* Repair-Cafes
+* Walk-in Workshops (Kinder)
+
+]
+
+---
+
+# Turbine 
+.left[
+
+* Offene Werkstatt
+* Kurse 
+* Repair-Cafes
+* Walk-in Workshops (Kinder)
+* Jetzt auch: Meetup
+
+]
+
+---
+
+# Turbine 
+.left[
+
+* Offene Werkstatt
+* Kurse 
+* Repair-Cafes
+* Walk-in Workshops (Kinder)
+* Jetzt auch: Meetup, gestellt werden
+   * Raum , Internet
+
+]
+
+
+---
+
+# Turbine 
+.left[
+
+* Offene Werkstatt
+* Kurse 
+* Repair-Cafes
+* Walk-in Workshops (Kinder)
+* Jetzt auch: Meetup, gestellt werden
+   * Raum , Internet
+   * Laptops
+
+]
+
+---
+
+# Turbine 
+.left[
+
+* Offene Werkstatt
+* Kurse 
+* Repair-Cafes
+* Walk-in Workshops (Kinder)
+* Jetzt auch: Meetup, gestellt werden
+   * Raum , Internet
+   * Laptops
+   * Lötkolben
+
+]
+
+---
+
+# Turbine 
+.left[
+
+* Offene Werkstatt
+* Kurse 
+* Repair-Cafes
+* Walk-in Workshops (Kinder)
+* Jetzt auch: Meetup, gestellt werden
+   * Raum , Internet
+   * Laptops
+   * Lötkolben
+   * Selbstbedienungs-Cafe im EG
+
+]
+
+---
+
+# Turbine 
+.left[
+
+* Offene Werkstatt
+* Kurse 
+* Repair-Cafes
+* Walk-in Workshops (Kinder)
+* Jetzt auch: Meetup, **Tabu sind** 
+   * 3D-Drucker
+   * Laser-Cutter
+   * Schneidplotter
+   * Sonstiges, Maschinen im 1. OG
+]
+
+
+---
+
+# Turbine 
+.left[
+
+* Offene Werkstatt
+* Kurse 
+* Repair-Cafes
+* Walk-in Workshops (Kinder)
+* Jetzt auch: Meetup, **Tabu sind** (*)
+   * 3D-Drucker
+   * Laser-Cutter
+   * Schneidplotter
+   * Sonstiges, Maschinen im 1. OG
+
+(*) Ausgenommen sind natürlich Besitzer eines Werkstatt-Abos
+]
+
 
 ---
 
